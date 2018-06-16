@@ -1374,12 +1374,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #232323;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #f9d2dc;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1759,39 +1759,19 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #767676 !important;
 }
-.cid-qV4Md0zh40 {
-  background: #ffffff;
+.cid-qV99M1GaXH {
+  background-image: url("../../../assets/images/red-roses-and-a-vintage-book-on-dark-background-p25hgn9-2000x1333.jpg");
 }
-.cid-qV4Md0zh40 .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qV4Md0zh40 .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qV4Md0zh40 figcaption {
-  position: relative;
-}
-.cid-qV4Md0zh40 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qV4Md0zh40 .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qV4Md0zh40 DIV {
-  color: #f9d2dc;
+.cid-qV99M1GaXH .mbr-text,
+.cid-qV99M1GaXH .mbr-section-btn {
   text-align: left;
 }
 .cid-qV4Mj5KcZA {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-qV4Mj5KcZA .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -2090,12 +2070,12 @@ body {
 .cid-qV4MmFbYe5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/red-roses-and-a-vintage-book-on-dark-background-intr-3-1920x1080.jpg");
 }
 .cid-qV4MPLOf0D {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #e1e1e1;
 }
 .cid-qV4MPLOf0D .title {
   margin-bottom: 2rem;
@@ -2122,7 +2102,7 @@ body {
 .cid-qV4MQz5l0M {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #c1c1c1;
 }
 .cid-qV4MQz5l0M .mbr-iconfont {
   font-size: 48px;
@@ -2216,7 +2196,7 @@ body {
 .cid-qV4MSv2Uxp {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #faecef;
 }
 .cid-qV4MSv2Uxp .socicon-bg-facebook {
   background: #3e5b98;
@@ -2325,34 +2305,39 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qV4MY3rTKr {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qV9pqCFemu {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-@media (max-width: 767px) {
-  .cid-qV4MY3rTKr .content {
-    text-align: center;
-  }
-  .cid-qV4MY3rTKr .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
+.cid-qV9pqCFemu .row-links {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qV4MY3rTKr .map {
-  height: 18.75rem;
+.cid-qV9pqCFemu .social-row {
+  width: 100%;
+  justify-content: center;
 }
-@media (max-width: 767px) {
-  .cid-qV4MY3rTKr .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qV9pqCFemu .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.cid-qV4MY3rTKr .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
+.cid-qV9pqCFemu .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
 }
-.cid-qV4MY3rTKr .footer-lower .social-list {
+.cid-qV9pqCFemu .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-qV9pqCFemu .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-qV9pqCFemu .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2361,114 +2346,32 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qV4MY3rTKr .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
+.cid-qV9pqCFemu .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
 }
-.cid-qV4MY3rTKr .footer-lower .social-list .soc-item {
+.cid-qV9pqCFemu .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qV4MY3rTKr .footer-lower .social-list a {
+.cid-qV9pqCFemu .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qV4MY3rTKr .footer-lower .social-list a:hover {
+.cid-qV9pqCFemu .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qV4MY3rTKr .footer-lower .social-list {
+  .cid-qV9pqCFemu .media-container-row .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qV4MY3rTKr .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-qV4MY3rTKr .google-map iframe {
-  height: 100%;
+.cid-qV9pqCFemu .media-container-row .row-copirayt {
+  word-break: break-word;
   width: 100%;
 }
-.cid-qV4MY3rTKr .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
+.cid-qV9pqCFemu .media-container-row .row-copirayt p {
   width: 100%;
-}
-.cid-qV4MY3rTKr .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-qV4MY3rTKr .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-qV4MZ90skl {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-qV4MZ90skl .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-qV4MZ90skl .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-qV4MZ90skl .media-wrap img {
-  height: 6rem;
-}
-.cid-qV4MZ90skl .mbr-text {
-  color: #767676;
-}
-@media (max-width: 767px) {
-  .cid-qV4MZ90skl .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-qV4MZ90skl .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
-}
-.cid-qV4MZ90skl .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qV4MZ90skl .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
-}
-.cid-qV4MZ90skl .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qV4MZ90skl .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qV4MZ90skl .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qV4MZ90skl .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
 }
